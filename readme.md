@@ -42,3 +42,6 @@ O projeto JavaScript é uma aplicação frontend desenvolvida utilizando HTML, C
 1. Clone o repositório para sua máquina local.
 2. Para a aplicação Java, abra o projeto em sua IDE Java favorita e execute a classe `Application.java` para iniciar o servidor.
 3. Para a aplicação JavaScript, abra o arquivo `index.html` em um navegador da web para visualizar a página da aplicação.
+
+## Foto do projeto final
+![projeto-foto.png](projeto-foto.png)
