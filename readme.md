@@ -42,11 +42,3 @@ O projeto JavaScript é uma aplicação frontend desenvolvida utilizando HTML, C
 1. Clone o repositório para sua máquina local.
 2. Para a aplicação Java, abra o projeto em sua IDE Java favorita e execute a classe `Application.java` para iniciar o servidor.
 3. Para a aplicação JavaScript, abra o arquivo `index.html` em um navegador da web para visualizar a página da aplicação.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, correções de bugs ou novos recursos.
-
----
-
-Espero que este README forneça uma visão clara sobre o projeto e suas funcionalidades, tanto para a aplicação Java quanto para a aplicação JavaScript. Se precisar de mais informações ou assistência, não hesite em entrar em contato!
